@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "5sN9wDst+HCX5/XzLGP9y0QePWTJ0szIBGlEgkNlcLE=",
+  "Source": "WebServer",
+  "BasePath": "_content/WebServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebServer/wwwroot",
+      "Source": "WebServer",
+      "ContentRoot": "/media/juan/Datos/Source/WebSockets/WebServer/wwwroot/",
+      "BasePath": "_content/WebServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/media/juan/Datos/Source/WebSockets/WebServer/wwwroot/script.js",
+      "SourceId": "WebServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/media/juan/Datos/Source/WebSockets/WebServer/wwwroot/",
+      "BasePath": "_content/WebServer",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/script.js"
+    }
+  ]
+}
